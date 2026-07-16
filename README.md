@@ -12,3 +12,6 @@ A portfolio of CyberDefenders DFIR investigations documenting attack chains, dig
 | Amadey - APT-C-36 Lab | Endpoint Forensics |  Completed |
 | Rogue Azure | Cloud Forensics | Completed |
 | Web Strike | Network Forensics | Completed |
+| JetBrains | Network Forensics | 🚧 Coming Soon |
+| RetailBreach | Network Forensics | 🚧 Coming Soon |
+| AWSRaid | Cloud Forensics | 🚧 Coming Soon |
