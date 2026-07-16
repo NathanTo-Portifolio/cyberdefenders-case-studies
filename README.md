@@ -6,8 +6,9 @@ A portfolio of CyberDefenders DFIR investigations documenting attack chains, dig
 
 ## Case Studies
 
-| Case | Status |
-|------|--------|
-| Rogue Azure | 🚧 Coming Soon |
-| Stealth Ascent | 🚧 Coming Soon |
-| Redishell – Kinsing | 🚧 Coming Soon |
+| Case | Category | Status |
+|------|----------|--------|
+| PoisonedCredentials Lab | Network Forensics | Completed |
+| Amadey - APT-C-36 Lab | Endpoint Forensics |  Completed |
+| Rogue Azure | Cloud Forensics | Completed |
+| Web Strike | Network Forensics | Completed |
