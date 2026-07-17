@@ -6,12 +6,13 @@ A portfolio of CyberDefenders DFIR investigations documenting attack chains, dig
 
 ## Case Studies
 
-| Case | Category | Status |
-|------|----------|--------|
-| PoisonedCredentials Lab | Network Forensics | Completed |
-| Amadey - APT-C-36 Lab | Endpoint Forensics |  Completed |
-| Rogue Azure | Cloud Forensics | Completed |
-| Web Strike | Network Forensics | Completed |
-| JetBrains | Network Forensics | 🚧 Coming Soon |
-| RetailBreach | Network Forensics | 🚧 Coming Soon |
-| AWSRaid | Cloud Forensics | 🚧 Coming Soon |
+| Case                | Category           | Primary Attack Phase                     | Status         |
+| ------------------- | ------------------ | ---------------------------------------- | -------------- |
+| PoisonedCredentials | Network Forensics  | Credential Access                        | ✅ Completed   |
+| Amadey - APT-C-36   | Endpoint Forensics | Execution / Persistence                  | ✅ Completed   |
+| Rogue Azure         | Cloud Forensics    | Initial Access (Credential Abuse)        | ✅ Completed   |
+| Web Strike          | Network Forensics  | Initial Access (Exposed Service)         | ✅ Completed   |
+| JetBrains           | Network Forensics  | Initial Access (Exposed Service)         | 🚧 Coming Soon |
+| RetailBreach        | Network Forensics  | Lateral Movement                         | 🚧 Coming Soon |
+| AWSRaid             | Cloud Forensics    | Privilege Escalation / Cloud Persistence | 🚧 Coming Soon |
+
