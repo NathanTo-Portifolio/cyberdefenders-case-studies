@@ -12,7 +12,7 @@ A portfolio of CyberDefenders DFIR investigations documenting attack chains, dig
 | Amadey - APT-C-36   | Endpoint Forensics | Execution / Persistence                  | ✅ Completed   |
 | Rogue Azure         | Cloud Forensics    | Initial Access (Credential Abuse)        | ✅ Completed   |
 | Web Strike          | Network Forensics  | Initial Access (Exposed Service)         | ✅ Completed   |
-| JetBrains           | Network Forensics  | Initial Access (Exposed Service)         | 🚧 Coming Soon |
-| RetailBreach        | Network Forensics  | Lateral Movement                         | 🚧 Coming Soon |
-| AWSRaid             | Cloud Forensics    | Privilege Escalation / Cloud Persistence | 🚧 Coming Soon |
+| JetBrains           | Network Forensics  | TBC                                      | 🚧 Coming Soon |
+| RetailBreach        | Network Forensics  | TBC                                      | 🚧 Coming Soon |
+| AWSRaid             | Cloud Forensics    | TBC                                      | 🚧 Coming Soon |
 
