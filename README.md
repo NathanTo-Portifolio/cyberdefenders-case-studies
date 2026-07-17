@@ -9,7 +9,7 @@ A portfolio of CyberDefenders DFIR investigations documenting attack chains, dig
 | Case                | Category           | Primary Attack Phase                     | Status         |
 | ------------------- | ------------------ | ---------------------------------------- | -------------- |
 | [PoisonedCredentials](PoisonedCredentials/) | Network Forensics | Credential Access | ✅ Completed |
-| Amadey - APT-C-36   | Endpoint Forensics | Execution / Persistence                  | ✅ Completed   |
+| [Amadey - APT-C-36](Amadey-APT-C-36/) | Endpoint Forensics | Execution / Persistence | ✅ Completed   |
 | Rogue Azure         | Cloud Forensics    | Initial Access (Credential Abuse)        | ✅ Completed   |
 | Web Strike          | Network Forensics  | Initial Access (Exposed Service)         | ✅ Completed   |
 | JetBrains           | Network Forensics  | TBC                                      | 🚧 Coming Soon |
